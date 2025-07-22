@@ -9,12 +9,12 @@ website:
         text: Home
       - about.qmd
 
-format:
-  html:
+#format:
+  #html:
     #theme:
     #  - brand
     #css: styles.css
-    toc: true
+    #toc: true
 
 
 
